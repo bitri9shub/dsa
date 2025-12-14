@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1765620214 source:c:\users\hp\desktop\github\dsa\algorithms\selection_sort\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1765704249 source:c:\users\hp\desktop\github\dsa\algorithms\quick_sort\main.c
+	<stdio.h>
+	<stdlib.h>
+
