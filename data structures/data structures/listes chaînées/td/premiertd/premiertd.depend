@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1765795363 source:c:\users\hp\desktop\github\dsa\data structures\listes chaînées\td\premiertd\main.c
+	"headers.h"
+
+1765794655 c:\users\hp\desktop\github\dsa\data structures\listes chaînées\td\premiertd\headers.h
+	<stdio.h>
+	<stdlib.h>
+
+1765796195 source:c:\users\hp\desktop\github\dsa\data structures\listes chaînées\td\premiertd\functionlist.c
+	"headers.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1766342725 source:c:\users\hp\desktop\github\dsa\data structures\arbres\main\main.c
+	"HEADERS.h"
+
+1766342686 c:\users\hp\desktop\github\dsa\data structures\arbres\main\headers.h
+	<stdio.h>
+	<stdlib.h>
+
+1766342733 source:c:\users\hp\desktop\github\dsa\data structures\arbres\main\functionlist.c
+	"HEADERS.h"
+
